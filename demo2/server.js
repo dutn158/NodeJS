@@ -2,7 +2,7 @@ var express = require("express");
 var app = express();
 var bodyParser = require("body-parser");
 var mongoose = require("mongoose");
-mongoose.connect("mongodb://dutn:Mlabincorrect93@ds023428.mlab.com:23428/trandu");
+mongoose.connect("mongodb://dutn:Default@ds023428.mlab.com:23428/trandu");
 
 var Bear = require("./app/models/bear");
 
