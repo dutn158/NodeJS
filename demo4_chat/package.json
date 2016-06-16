@@ -1,0 +1,10 @@
+{
+	"name" : "chat_sample",
+	"version" : "0.0.1",
+	"main" : "server.js",
+	"dependencies" : {
+		"async" : "latest",
+		"socket.io" : "latest",
+		"express" : "latest"
+	}
+}

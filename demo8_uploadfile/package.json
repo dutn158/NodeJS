@@ -1,0 +1,13 @@
+{
+
+	"script":"server.js",
+	"dependencies": {
+		"express":"latest",
+		"multer":"latest",
+		"mongoose":"latest",
+		"socket.io":"latest",
+		"body-parser":"latest",
+		"path":"latest"
+	}
+
+}
